@@ -22,6 +22,7 @@ Result
 We got GradientBoosting as the best model after deploying it on training and test dataset with a RMSE score of 2.983973e+06 which is still lot better compared to high production volume and time tradeoff!!!. 
 
 Refrences
+
 https://www.hindawi.com/journals/cin/2022/7084514/
 https://onepetro.org/EM/article-abstract/8/01/23/205905/Machine-Learning-as-a-Reliable-Technology-for
 https://www.mdpi.com/1996-1073/14/12/3629
